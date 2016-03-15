@@ -6,8 +6,9 @@ my prefered config
 - homebrew
 
 - python
+- `sudo easy_install
 -- python libraries
--- requirements.txt
+--- `pip install -r requirements.txt`
 - add SSH-key to github
 - add to Github orgs
 - r
@@ -17,4 +18,6 @@ my prefered config
 - java8
 - MVN
 -- `brew install maven`
+- virtualbox
+-- https://www.virtualbox.org/wiki/Downloads
 - 
