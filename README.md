@@ -6,7 +6,7 @@ my prefered config
 - homebrew
 - python
 - `sudo easy_install pip`
--- `pip install -r requirements.txt`
+- `pip install -r requirements.txt`
 - add SSH-key to github
 - add to Github orgs
 - r
