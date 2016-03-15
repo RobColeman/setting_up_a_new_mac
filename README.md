@@ -4,9 +4,8 @@ my prefered config
 
 - zsh
 - homebrew
-
 - python
-- `sudo easy_install
+- `sudo easy_install`
 -- python libraries
 --- `pip install -r requirements.txt`
 - add SSH-key to github
